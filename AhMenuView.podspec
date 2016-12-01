@@ -25,7 +25,7 @@ TODO: this  isa  a a d heugerhugbheuhbjirtnjiywnu  ia dheugehugrhughreu
   s.ios.deployment_target = '8.0'
   
   s.source_files = 'AhMenuView/Classes/**/*'
-  #s.platform     =:ios,’8.0’
+  s.platform     =:ios,'8.0'
   s.resource_bundles = {
      'AhMenuView' => ['AhMenuView/Assets/*.png']
    }
