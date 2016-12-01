@@ -1,0 +1,29 @@
+{
+  "name": "AhMenuView",
+  "version": "0.1.0",
+  "summary": "this is a test",
+  "description": "TODO: this  isa  a a d heugerhugbheuhbjirtnjiywnu  ia dheugehugrhughreu",
+  "homepage": "https://github.com/ahao1011/AhMenuView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ah": "zth1011@126.com"
+  },
+  "source": {
+    "git": "https://github.com/ahao1011/AhMenuView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AhMenuView/Classes/**/*",
+  "resource_bundles": {
+    "AhMenuView": [
+      "AhMenuView/Assets/*.png"
+    ]
+  },
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

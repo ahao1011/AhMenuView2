@@ -1,0 +1,16 @@
+PODS:
+  - AhMenuView (0.1.0)
+
+DEPENDENCIES:
+  - AhMenuView (from `../`)
+
+EXTERNAL SOURCES:
+  AhMenuView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AhMenuView: fa92a8846927fa2e9b824d1ee7aaac5a99ae1ae2
+
+PODFILE CHECKSUM: f1ddfe414768db929f84226317dfd7a9094a9e66
+
+COCOAPODS: 1.1.1
