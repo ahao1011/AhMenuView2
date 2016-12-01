@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AhMenuView_Example' do
+  pod 'AhMenuView', :path => '../'
+
+  target 'AhMenuView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
